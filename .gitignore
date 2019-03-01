@@ -1,2 +1,2 @@
-/test
-/*.o
+/test.*
+/makefile
